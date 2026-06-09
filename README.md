@@ -97,16 +97,7 @@ GET /api/github/profiles
 GET /api/github/profiles/:username
 ```
 
-## Live API
-
-```
-https://github-profile-analyzer-6wz5.onrender.com
-```
-
 ## Author
 
 Rahul Tiwari
 
-- Email: t.rahul3105@gmail.com
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN_USERNAME
